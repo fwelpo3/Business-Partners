@@ -1,0 +1,5 @@
+{
+  "name": "Business Directory Map",
+  "description": "An interactive map and directory where users can register their business information (name, number, company, etc.) and see it displayed on a map. Includes a management page to edit and delete entries.",
+  "requestFramePermissions": []
+}
